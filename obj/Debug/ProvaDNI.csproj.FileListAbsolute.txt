@@ -1,0 +1,18 @@
+C:\Users\claudiamolneb\Desktop\Project Git\ProvaDNI\ProvaDNI\bin\Debug\ProvaDNI.exe.config
+C:\Users\claudiamolneb\Desktop\Project Git\ProvaDNI\ProvaDNI\bin\Debug\ProvaDNI.exe
+C:\Users\claudiamolneb\Desktop\Project Git\ProvaDNI\ProvaDNI\bin\Debug\ProvaDNI.pdb
+C:\Users\claudiamolneb\Desktop\Project Git\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.csprojAssemblyReference.cache
+C:\Users\claudiamolneb\Desktop\Project Git\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.Form1.resources
+C:\Users\claudiamolneb\Desktop\Project Git\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.Properties.Resources.resources
+C:\Users\claudiamolneb\Desktop\Project Git\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.csproj.GenerateResource.cache
+C:\Users\claudiamolneb\Desktop\Project Git\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.exe
+C:\Users\claudiamolneb\Desktop\Project Git\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.pdb
+C:\Users\claudiamolneb\Desktop\PGit\ProvaDNI\ProvaDNI\bin\Debug\ProvaDNI.exe.config
+C:\Users\claudiamolneb\Desktop\PGit\ProvaDNI\ProvaDNI\bin\Debug\ProvaDNI.exe
+C:\Users\claudiamolneb\Desktop\PGit\ProvaDNI\ProvaDNI\bin\Debug\ProvaDNI.pdb
+C:\Users\claudiamolneb\Desktop\PGit\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.csprojAssemblyReference.cache
+C:\Users\claudiamolneb\Desktop\PGit\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.Form1.resources
+C:\Users\claudiamolneb\Desktop\PGit\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.Properties.Resources.resources
+C:\Users\claudiamolneb\Desktop\PGit\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.csproj.GenerateResource.cache
+C:\Users\claudiamolneb\Desktop\PGit\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.exe
+C:\Users\claudiamolneb\Desktop\PGit\ProvaDNI\ProvaDNI\obj\Debug\ProvaDNI.pdb
